@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently studying Software Engineering Immersive at General Assembly.<br>💬 Ask me about anything! <br>
+🔭 I’m currently studying Software Engineering Immersive at General Assembly.<br>💬 Ask me anything! <br>
 
 
 ## 🌐 Socials:

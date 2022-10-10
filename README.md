@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Emsley1d/Emsley1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

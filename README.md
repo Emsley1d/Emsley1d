@@ -23,10 +23,10 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 
 
 # Deployed Projects:
-[PokeGotchi](https://bit.ly/Pokegotchi) <br>
-[NutriC02](https://bit.ly/NutriCO2) <br>
-[Rate My Cat](https://bit.ly/RateMyCat) <br>
-[Asteroid Belt](https://bit.ly/Asteroidbelt) <br>
+:hatching_chick: [PokeGotchi](https://bit.ly/Pokegotchi) <br>
+:spaghetti: [NutriC02](https://bit.ly/NutriCO2) <br>
+:cat: [Rate My Cat](https://bit.ly/RateMyCat) <br>
+:rocket: [Asteroid Belt](https://bit.ly/Asteroidbelt) <br>
 
 
 # 💻 Tech Stack:

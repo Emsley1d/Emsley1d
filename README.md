@@ -23,10 +23,10 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 
 
 # Deployed Projects:
-:hatching_chick: [PokeGotchi](https://bit.ly/Pokegotchi) <br>
-:spaghetti: [NutriC02](https://bit.ly/NutriCO2) <br>
-:cat: [Rate My Cat](https://bit.ly/RateMyCat) <br>
-:rocket: [Asteroid Belt](https://bit.ly/Asteroidbelt) <br>
+:hatching_chick: [PokeGotchi](https://bit.ly/Pokegotchi) - A fullstack MERN application. <br>
+:spaghetti: [NutriC02](https://bit.ly/NutriCO2) - A CRUD application built using; HTML, CSS, Python, JSON, JavaScript, Django and NoSQL. <br>
+:cat: [Rate My Cat](https://bit.ly/RateMyCat) - A CRUD application built using; HTML, CSS, JavaScript, jQuery, Express, Middleware, MongoDB and Mongoose. <br>
+:rocket: [Asteroid Belt](https://bit.ly/Asteroidbelt) - A Space-Invaders style game built using CSS, HTML, JavaScript & jQuery. <br>
 
 
 # 💻 Tech Stack:

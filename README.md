@@ -5,7 +5,7 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 
 📩 email: emsleyd@gmail.com <br>
 👨‍💼 LinkedIn: www.linkedin.com/in/danemsley <br>
-:bomb: Codewars: www.codewars.com/users/EmsleyD <br>
+:male_detective: Codewars: www.codewars.com/users/EmsleyD <br>
 :wave: Portfolio: www.danemsley.com <br>
 
 

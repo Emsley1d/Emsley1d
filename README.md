@@ -26,3 +26,6 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emsley1d&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
+# Codewars Stats:
+![](https://www.codewars.com/users/EmsleyD/badges/large)
+

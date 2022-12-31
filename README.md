@@ -2,11 +2,12 @@
 # About:
 I have recently completed General Assembly's Software Engineering Immersive course and am looking for my first role within the industry.
 
-
-📩 email: emsleyd@gmail.com <br>
-👨‍💼 LinkedIn: www.linkedin.com/in/danemsley <br>
-:male_detective: Codewars: www.codewars.com/users/EmsleyD <br>
 :wave: Portfolio: www.danemsley.com <br>
+👨‍💼 LinkedIn: www.linkedin.com/in/danemsley <br>
+📩 email: emsleyd@gmail.com <br>
+:male_detective: Codewars: www.codewars.com/users/EmsleyD <br>
+
+![](https://www.codewars.com/users/EmsleyD/badges/large)
 
 
 # Deployed Projects:
@@ -26,6 +27,4 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emsley1d&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-# Codewars Stats:
-![](https://www.codewars.com/users/EmsleyD/badges/large)
 

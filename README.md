@@ -7,6 +7,8 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 📩 email: emsleyd@gmail.com <br>
 :male_detective: Codewars: www.codewars.com/users/EmsleyD <br>
 
+Currently practising my skills and improving my ranking on Codewars:
+
 ![](https://www.codewars.com/users/EmsleyD/badges/large)
 
 

@@ -24,9 +24,9 @@ Currently practising my skills and improving my ranking on Codewars:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Emsley1d&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Emsley1d&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Emsley1d&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emsley1d&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emsley1d&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
 
 

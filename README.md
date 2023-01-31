@@ -6,10 +6,11 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 👨‍💼 LinkedIn: www.linkedin.com/in/danemsley <br>
 📩 email: emsleyd@gmail.com <br>
 :male_detective: Codewars: www.codewars.com/users/EmsleyD <br>
-
-Currently practising my skills and improving my ranking on Codewars:
-
 ![](https://www.codewars.com/users/EmsleyD/badges/large)
+
+# Currently:
+
+I am currently practising my skills and improving my ranking on Codewars and creating a little passion project with [Kaboom.js](https://github.com/Emsley1d/Kaboom.js).
 
 
 # Deployed Projects:

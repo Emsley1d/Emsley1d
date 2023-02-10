@@ -10,7 +10,8 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 
 # Currently:
 
-I am currently practising my skills and improving my ranking on Codewars.<br>
+I am currently creating a [Weather Scraper](https://github.com/Emsley1d/Weather-app) to provide a user with their current location's weather and am always practising my skills and improving my ranking on Codewars:<br>
+
 ![](https://www.codewars.com/users/EmsleyD/badges/large)
 
 

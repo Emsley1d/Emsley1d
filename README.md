@@ -21,8 +21,8 @@ I am currently practising my skills and improving my ranking on Codewars:<br>
 :cat: [Rate My Cat](https://bit.ly/RateMyCat) - A CRUD application built using; HTML, CSS, JavaScript, jQuery, Express, Middleware, MongoDB and Mongoose. <br>
 :rocket: [Asteroid Belt](https://bit.ly/Asteroidbelt) - A Space-Invaders style game built using CSS, HTML, JavaScript & jQuery. <br>
 
-# Mini Projects
-🌥️[Weather Scraper](https://emsley1d.github.io/Weather-app/) - A JavaScript Weather Scraper fetching data via an API call. Built with HTML, CSS, JavaScript and Bootstrap.
+## Mini Projects
+☁️[Weather Scraper](https://emsley1d.github.io/Weather-app/) - A Weather Scraper fetching data via an API call. Built with HTML, CSS, JavaScript and Bootstrap.
 
 
 # Tech Stack:

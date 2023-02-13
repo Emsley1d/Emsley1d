@@ -10,7 +10,7 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 
 # Currently:
 
-I am currently creating a [Weather Scraper](https://github.com/Emsley1d/Weather-app) to provide a user with their current location's weather and am always practising my skills and improving my ranking on Codewars:<br>
+I am currently practising my skills and improving my ranking on Codewars:<br>
 
 ![](https://www.codewars.com/users/EmsleyD/badges/large)
 
@@ -20,6 +20,9 @@ I am currently creating a [Weather Scraper](https://github.com/Emsley1d/Weather-
 :spaghetti: [NutriC02](https://bit.ly/NutriCO2) - A CRUD application built using; HTML, CSS, Python, JSON, JavaScript, Django and NoSQL. <br>
 :cat: [Rate My Cat](https://bit.ly/RateMyCat) - A CRUD application built using; HTML, CSS, JavaScript, jQuery, Express, Middleware, MongoDB and Mongoose. <br>
 :rocket: [Asteroid Belt](https://bit.ly/Asteroidbelt) - A Space-Invaders style game built using CSS, HTML, JavaScript & jQuery. <br>
+
+# Mini Projects
+🌥️[Weather Scraper](https://emsley1d.github.io/Weather-app/) - A JavaScript Weather Scraper fetching data via an API call. Built with HTML, CSS, JavaScript and Bootstrap.
 
 
 # Tech Stack:

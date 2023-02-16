@@ -10,7 +10,7 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 
 # Currently:
 
-I am currently practising my skills and improving my ranking on Codewars:<br>
+I am currently learning C# and C++ on Codecademeny and refining my skills on Codewars:<br>
 
 ![](https://www.codewars.com/users/EmsleyD/badges/large)
 

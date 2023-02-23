@@ -20,7 +20,7 @@ I am currently learning C# and C++ on Codecademeny and refining my skills on Cod
 :spaghetti: [NutriC02](https://bit.ly/NutriCO2) - A CRUD application built using; HTML, CSS, Python, JSON, JavaScript, Django and NoSQL. <br>
 :cat: [Rate My Cat](https://bit.ly/RateMyCat) - A CRUD application built using; HTML, CSS, JavaScript, jQuery, Express, Middleware, MongoDB and Mongoose. <br>
 :rocket: [Asteroid Belt](https://bit.ly/Asteroidbelt) - A Space-Invaders style game built using CSS, HTML, JavaScript & jQuery. <br>
-☁️ [Weather Scraper](https://emsley1d.github.io/Weather-scraper/) - A Weather Scraper fetching data via an API call. Built with HTML, CSS, JavaScript and Bootstrap.
+☁️ [Weather Scraper](https://emsley1d.github.io/Weather-Scraper/) - A Weather Scraper fetching data via an API call. Built with HTML, CSS, JavaScript and Bootstrap.
 
 
 # Tech Stack:

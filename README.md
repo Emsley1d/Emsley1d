@@ -10,9 +10,7 @@ I have recently completed General Assembly's Software Engineering Immersive cour
 
 # Currently:
 
-I am currently learning C# and C++ on Codecademeny and refining my skills on Codewars:<br>
-
-![](https://www.codewars.com/users/EmsleyD/badges/large)
+I am currently creating a side project; [3GT - Three Good Things](https://github.com/Emsley1d/3GT-ThreeGoodThings).
 
 
 # Deployed Projects:

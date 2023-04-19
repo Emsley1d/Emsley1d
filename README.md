@@ -1,11 +1,11 @@
 
 # About:
-I have recently completed General Assembly's Software Engineering Immersive course and am looking for my first role within the industry.
+I have recently graduated from General Assembly's Software Engineering Immersive course and am looking for my first role within the industry.
 
-:wave: Portfolio: www.danemsley.com <br>
-👨‍💼 LinkedIn: www.linkedin.com/in/danemsley <br>
-📩 email: emsleyd@gmail.com <br>
-:male_detective: Codewars: www.codewars.com/users/EmsleyD <br>
+Portfolio: www.danemsley.com <br>
+LinkedIn: www.linkedin.com/in/danemsley <br>
+Email: emsleyd@gmail.com <br>
+Codewars: www.codewars.com/users/EmsleyD <br>
 
 
 # Currently:
@@ -14,11 +14,11 @@ I am currently creating a side project; [3GT - Three Good Things](https://github
 
 
 # Deployed Projects:
-:hatching_chick: [PokeGotchi](https://bit.ly/Pokegotchi) - A fullstack MERN application. <br>
-:spaghetti: [NutriC02](https://bit.ly/NutriCO2) - A CRUD application built using; HTML, CSS, Python, JSON, JavaScript, Django and NoSQL. <br>
-:cat: [Rate My Cat](https://bit.ly/RateMyCat) - A CRUD application built using; HTML, CSS, JavaScript, jQuery, Express, Middleware, MongoDB and Mongoose. <br>
-:rocket: [Asteroid Belt](https://bit.ly/Asteroidbelt) - A Space-Invaders style game built using CSS, HTML, JavaScript & jQuery. <br>
-☁️ [Weather Scraper](https://emsley1d.github.io/Weather-Scraper/) - A Weather Scraper fetching data via an API call. Built with HTML, CSS, JavaScript and Bootstrap.
+[PokeGotchi](https://bit.ly/Pokegotchi) - A fullstack MERN application. <br>
+[NutriC02](https://bit.ly/NutriCO2) - A CRUD application built using; HTML, CSS, Python, JSON, JavaScript, Django and NoSQL. <br>
+[Rate My Cat](https://bit.ly/RateMyCat) - A CRUD application built using; HTML, CSS, JavaScript, jQuery, Express, Middleware, MongoDB and Mongoose. <br>
+[Asteroid Belt](https://bit.ly/Asteroidbelt) - A Space-Invaders style game built using CSS, HTML, JavaScript & jQuery. <br>
+[Weather Scraper](https://emsley1d.github.io/Weather-Scraper/) - A Weather Scraper fetching data via an API call. Built with HTML, CSS, JavaScript and Bootstrap.
 
 
 # Tech Stack:

@@ -8,12 +8,6 @@ Email: emsleyd@gmail.com <br>
 Codewars: www.codewars.com/users/EmsleyD <br>
 
 
-# Currently:
-
-I am currently creating a side project; [3GT - Three Good Things](https://github.com/Emsley1d/3GT-ThreeGoodThings).<br>
-I am also redeploying [Rate My Cat](https://bit.ly/RateMyCat) from Heroku to a new host.
-
-
 # Deployed Projects:
 [PokeGotchi](https://bit.ly/Pokegotchi) - A fullstack MERN application. <br>
 [NutriC02](https://bit.ly/NutriCO2) - A CRUD application built using; HTML, CSS, Python, JSON, JavaScript, Django and NoSQL. <br>

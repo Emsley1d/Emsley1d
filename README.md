@@ -1,6 +1,7 @@
 
 # About:
-I have recently graduated from General Assembly's Software Engineering Immersive course and am looking for my first role within the industry.
+
+I work for a small software company in Somerset; offering bespoke software solutions; working predominantly with C#, PHP and Microsoft Powerapps. I graduated from General Assembly's Software Engineering Immersive course in October 2022 after a 15 year career in the Utility Industry. 
 
 Portfolio: www.danemsley.com <br>
 LinkedIn: www.linkedin.com/in/danemsley <br>
@@ -11,7 +12,7 @@ Codewars: www.codewars.com/users/EmsleyD <br>
 # Deployed Projects:
 [PokeGotchi](https://bit.ly/Pokegotchi) - A fullstack MERN application. <br>
 [NutriC02](https://bit.ly/NutriCO2) - A CRUD application built using; HTML, CSS, Python, JSON, JavaScript, Django and NoSQL. <br>
-[Rate My Cat](https://bit.ly/RateMyCat) - (BEING REDEPLOYED) A CRUD application built using; HTML, CSS, JavaScript, jQuery, Express, Middleware, MongoDB and Mongoose. <br>
+[Rate My Cat](https://bit.ly/RateMyCat) - A CRUD application built using; HTML, CSS, JavaScript, jQuery, Express, Middleware, MongoDB and Mongoose. <br>
 [Asteroid Belt](https://bit.ly/Asteroidbelt) - A Space-Invaders style game built using CSS, HTML, JavaScript & jQuery. <br>
 [Weather Scraper](https://emsley1d.github.io/Weather-Scraper/) - A Weather Scraper fetching data via an API call. Built with HTML, CSS, JavaScript and Bootstrap.
 

@@ -5,7 +5,6 @@ I work for a small software company in Somerset; offering bespoke software solut
 
 Portfolio: www.danemsley.com <br>
 LinkedIn: www.linkedin.com/in/danemsley <br>
-Email: emsleyd@gmail.com <br>
 Codewars: www.codewars.com/users/EmsleyD <br>
 
 

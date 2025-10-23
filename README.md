@@ -1,7 +1,8 @@
 
 # About:
 
-I work for a small software company in Somerset; offering bespoke software solutions; working predominantly with C#, PHP and Microsoft Powerapps. I graduated from General Assembly's Software Engineering Immersive course in October 2022 after a 15 year career in the Utility Industry. 
+I work for a Springboard IT in Somerset; we offer bespoke software solutions; working predominantly with C#, PHP and Microsoft Powerapps. 
+I graduated from General Assembly's Software Engineering Immersive course in October 2022 after a 15 year career in the Utility Industry. 
 
 Portfolio: www.danemsley.com <br>
 LinkedIn: www.linkedin.com/in/danemsley <br>

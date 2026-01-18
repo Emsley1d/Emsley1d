@@ -1,13 +1,19 @@
 
 # About:
 
-I work for a Springboard IT in Somerset; we offer bespoke software solutions; working predominantly with C#, PHP and Microsoft Powerapps. 
-I graduated from General Assembly's Software Engineering Immersive course in October 2022 after a 15 year career in the Utility Industry. 
+I am a Software Developer and member of the Management Team at Springboard IT; a Somerset based Software Development company.
 
+I predominantly work with Microsoft’s Power Platform, building complex and bespoke solutions utilising Power Apps, Power Automate, Power BI, SharePoint, and Azure to deliver scalable business solutions.
+
+Alongside my technical role, I contribute to marketing, business development, and operational strategy, helping to shape key business decisions and the organisation’s technology direction. This includes evaluating and implementing tools and platforms that improve efficiency, security, and cost-effectiveness. I also represent the company through professional networking at BNI and Network B2B.
+
+I also have experience developing WordPress websites, using front-end tools such as Toolset and Elementor to create dynamic, content-driven websites.
+
+<br>
 Portfolio: www.danemsley.com <br>
 LinkedIn: www.linkedin.com/in/danemsley <br>
-Codewars: www.codewars.com/users/EmsleyD <br>
 
+<br>
 
 # Deployed Projects:
 [PokeGotchi](https://bit.ly/Pokegotchi) - A fullstack MERN application. <br>
